@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ViniciusAragaoL
 - 👀 I’m interested in practical applications on software
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects to learn even more
 - 📫 How to reach me @viniciusaragao404
 
 <!---
